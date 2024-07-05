@@ -30,7 +30,7 @@ This work is licensed under a
 9) Thoughts that you would be better off dead or of hurting yourself in some way
 
 
-[PHQ9 depression ontology](https://github.com/AnonymousUserGithub/DepressionDetection/blob/main/PSAT%20Results/PHQ9%20depression%20ontology.csv) contains all 9 labels and phrases extracted using keybert with pos tags and keybart.
+[PHQ9 depression ontology](PHQ9Questions_depression_ontology.csv) contains all 9 labels and phrases extracted using keybert with pos tags and keybart.
 
 
 # Primate Dataset
